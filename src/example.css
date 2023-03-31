@@ -1,0 +1,9 @@
+button {
+  all: unset;
+  padding: 1rem 1.25rem 1rem 1.25rem;
+  font-size: 1rem;
+  border-radius: 0.8rem;
+  background: #b89cec;
+  min-width: 4.4rem;
+  text-align: center;
+}
